@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVI7nB3T/Ec=",
+  "success": true,
+  "projectFilePath": "C:\\FSharpFix\\Test2\\OscarPredictions\\OscarPredictions.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\fsharp.core\\9.0.300\\fsharp.core.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
